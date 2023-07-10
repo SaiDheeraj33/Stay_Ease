@@ -1,1 +1,2 @@
-# Stay_Ease
+# StayEase
+Hostel Management System Using PHP and MySQL
